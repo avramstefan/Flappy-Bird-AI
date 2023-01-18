@@ -6,6 +6,8 @@
 
 **Group: 321 CA**
 
+[**Check this -> Github**](https://github.com/avramstefan/Flappy-Bird-AI)
+
 # Flappy Bird - AI
 
 
